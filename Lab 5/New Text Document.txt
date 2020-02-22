@@ -1,0 +1,5 @@
+10, 100, 1000, 10000, 100000, 1000000 includes no. of records indicated by their name.
+Can't include 10000000 due to its large size, corresponding output is there in ReqOutputs.
+ex1.c contains required code
+ReqGraph: contains req graphs for 1(d), 2(c) & 2(d)
+ReqOutputs: contains req outputs for 1(e) & 2(e)

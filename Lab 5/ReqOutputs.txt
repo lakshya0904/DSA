@@ -1,0 +1,23 @@
+NOTE: This file is being used in append mode for writing required outputs.
+
+Total time is for reading 10 records is 0.000000ms.
+Total time is for sorting 10 records is 0.000000ms.
+Stack space used for sorting 10 records is 512 bytes.
+
+Total time is for reading 100 records is 0.998000ms.
+Total time is for sorting 100 records is 0.647000.
+Stack space used for sorting 100 records is 4784 bytes.
+
+Total time is for reading 1000 records is 2.992000ms.
+Total time is for sorting 1000 records is 9.886000ms.
+Stack space used for sorting 1000 records is 47984 bytes.
+
+Total time is for reading 10000 records is 22.942000ms.
+Total time is for sorting 10000 records is 693.189000ms.
+Stack space used for sorting 10000 records is 479984 bytes.
+
+Total time is for reading 100000 records is 103.729000ms.
+
+Total time is for reading 1000000 records is 1011.338000ms.
+
+Total time is for reading 10000000 records is 10034.166000ms.

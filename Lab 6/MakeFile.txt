@@ -1,0 +1,31 @@
+compRecMS:
+	gcc -o rec main.o merge1.o element.o
+
+compIterMS:
+	gcc -o iter main.o merge2.o element.o
+
+runRecMS:
+	./rec 1024.txt recOutputs.txt
+
+runIterMS:
+	./iter 1024.txt iterOutputs.txt
+
+compare:
+
+Making object files main.o, merge1.o, merge2.o & element.o
+	gcc -c element.c 
+	gcc -c merge1.c
+	gcc -c merge2.c
+	gcc -c main.c
+
+
+
+FEW MORE DETAILS:
+512.txt, 1024.txt, 2048.txt,..... contains number of records as indicated by their file names.
+recOutputs.txt contains outputs in case when recursive merge sort is used.
+iter.txt contains outputs in case when iterative merge sort is used.
+main.c: is the main driver file
+merge1.c: contains merge sort using recursion
+merge2.c: contains merge sort using iteration
+element.c: contains element structure to hold records
+ 

@@ -1,0 +1,32 @@
+// This file will be opened in append mode for recursive merge sort.
+
+Total time is for sorting 1024 records is 0.997000ms.
+Stack space used for sorting 1024 records is 8583 bytes.
+
+Total time is for sorting 512 records is 1.634000ms.
+Stack space used for sorting 512 records is 4447 bytes.
+
+Total time is for sorting 2048 records is 4.057000ms.
+Stack space used for sorting 2048 records is 16815 bytes.
+
+Total time is for sorting 3072 records is 5.036000ms.
+Stack space used for sorting 3072 records is 25003 bytes.
+
+Total time is for sorting 4096 records is 8.216000ms.
+Stack space used for sorting 4096 records is 33239 bytes.
+
+Total time is for sorting 5120 records is 8.592000ms.
+Stack space used for sorting 5120 records is 41427 bytes.
+
+Total time is for sorting 10240 records is 16.085000ms.
+Stack space used for sorting 10240 records is 82427 bytes.
+
+Total time is for sorting 20480 records is 32.143000ms.
+Stack space used for sorting 20480 records is 164387 bytes.
+
+Total time is for sorting 61440 records is 69.110000ms.
+Stack space used for sorting 61440 records is 492099 bytes.
+
+Total time is for sorting 51200 records is 88.482000ms.
+Stack space used for sorting 51200 records is 410183 bytes.
+

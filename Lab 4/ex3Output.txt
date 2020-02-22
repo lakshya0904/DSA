@@ -1,0 +1,1 @@
+---Memory allocated in  heap: 84000044
